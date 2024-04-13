@@ -1,0 +1,4 @@
+statues=Open, In Progress, Finished
+categories
+tasks
+notes=>to add information to a taks
